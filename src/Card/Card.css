@@ -1,0 +1,38 @@
+.card:hover{
+    box-shadow: 1px 1px 25px 1px !important;
+}
+
+button{
+    width: 90% !important;
+    padding: 10px !important;
+    margin: 10px 0 10px 0% !important;
+    background-color: #0d6dfdac !important;
+    font-size: 17px !important;
+    font-weight: 600 !important;
+}
+
+button:hover{
+    background-color: #0d6efd !important;
+}
+
+p{
+    font-size: 20px !important;
+    font-weight: 600 !important;
+}
+
+.fa-check, .fa-xmark{
+    padding-right: 10px !important;
+}
+
+hr{
+    border-bottom: 2px solid black !important;
+}
+
+.text-muted{
+    color: #c2c2c3 !important;
+}
+
+.title{
+    font-size: 50px !important;
+    margin-top: -7% !important;
+}
